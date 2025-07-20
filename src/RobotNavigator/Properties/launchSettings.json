@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RobotNavigator": {
+      "commandName": "Project",
+      "commandLineArgs": "RobotNav-test.txt BFS"
+    }
+  }
+}
